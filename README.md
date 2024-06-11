@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 👨‍💻 All of my projects are available at [https://main--lucent-pothos-ded5ef.netlify.app/](https://main--lucent-pothos-ded5ef.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://main--lucent-pothos-ded5ef.netlify.app/](https://portfolio-l676.onrender.com)
 
 - 💬 Ask me about **React , nodejs**
 
